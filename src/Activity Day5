@@ -1,0 +1,68 @@
+<DOCTYPE!>
+  <head>
+    <h1>About Me</h1>
+    <h2>Entering the Vortex</h2>
+    <p>What am I going to write about here?</p>
+</head>  
+<body>
+  
+    <h4>My Passions</h4>
+    <ol>
+        <li>Coding!</li>
+        <li>Music</li>
+        <li>Art</li>
+        <li>Neuroscience</li>
+        <li>Sewing</li>
+        <li>Surfing</li>
+    </ol>
+
+    <h4>What am I like?</h4>
+    <ul>
+        <li>Friendly</li>
+        <li>Optimistic</li>
+        <li>Open</li>
+        <li>Determined</li>
+    </ul>
+        
+<div>
+    <h4>Find out more!</h4>
+    <a href="/www.whatkimkong.com">Visit My Website</a>
+</div>
+
+<div></div>
+
+  </body>
+
+<form action="">
+<label for="">Ask me anything:</label>
+<input type="text">
+<button>Go!</button>
+
+<img width=400px; src="https://www.facebook.com/whatkimkong/photos/a.310522266564985/310522426564969/?type=3&theater" alt="Aerial Acrobatics Photograph">
+</form>  
+
+<!-- Now we’re ready to create an “About me” page.
+
+To create this page, you'll be adding the following HTML tags which we discussed in this lesson:
+
+- <h1> A first level heading tag. Normally there’s only one of these on a page, and it’s used to indicate the most important header.
+  
+- <h2> A second level heading tag. This is used for headers that are less important than <h1>. HTML gives us <h1> to <h6>. From <h2> on, it’s fine to use more than one on a page. Note that these heading tags help Google’s web crawlers understand what a page is about, and therefore are crucial for SEO. They also set default styling for any text they wrap (so an H1, for instance, will have bigger, bolder font than a paragraph, by default in all modern browsers).
+  
+- <p> The paragraph tag, which you’ll be shocked to learn is used to indicate that a grouping of text is a paragraph.
+  - <span> Similar to the <p> tag, it identifies groups of texts, but in this case, smaller ones that might later have different styles.
+  
+- <ul> or <ol> The unordered/ordered list tag is used in conjunction with the <li> tag to represent un-numbered/numbered, lists of items.
+  - <li> Used to indicate a list item in a <ul> or <ol>.
+  
+- <a> The anchor tag, which is used to link to another part of the page, or another page entirely.
+  
+- <div> The div tag, which is a generic container element, used to group together content. Try to wrap all other elements inside this tag.
+
+- <img> to add cool images to your website! you can copy the URLs from other websites and use them. For testing/practicing purposes of course ;)
+
+- <form> the form tag identifies the start of a form that will be used to allow the user to send information
+  - <label> to identify the name of a input!
+  - <input> to allow the user to fill in information.
+  - <button> can be used by themselves, but inside forms they allow you to grab all information from the input fields to send it.
+ -->
